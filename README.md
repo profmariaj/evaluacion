@@ -24,7 +24,7 @@ Dentro de tu rama asignada, crea un archivo con las siguientes especificaciones:
 
 ### 3. Registro de Cambios (Commit & Push)
 * Guarda los cambios localmente, realiza el commit y envía el archivo a tu rama de trabajo en el servidor.
-
+ 
 ### 4. Colaboración Cruzada
 Deberás colaborar en la rama de un compañero según la siguiente lógica de grupos:
 * **Si perteneces a Rama-1:** Colaboras con el compañero de tu misma posición en la **Rama-3**.
