@@ -55,3 +55,4 @@ Durante toda la práctica, deberás **mantener abierta la terminal**. La docente
 * Contenido y formato del archivo HTML.
 * Gestión de cambios (Push/Pull) e integración (Merge).
 * Valores y actitud durante la práctica.
+
